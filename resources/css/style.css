@@ -1,20 +1,9 @@
 body {
-    box-sizing: border-box;
+    align-content: center;
     background-color: black;
-    align-items: center;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 30px;
-}
-
-img {
-    display: block;
-    max-width: 100%;
-}
-
-video {
-    display: block;
-    max-width: 100%;
 }
 
 a {
