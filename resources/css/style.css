@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    background-color: color;
+    background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -13,8 +13,7 @@ img {
 a {
     /* Places underlines below the descenders */
     text-underline-position: under;
-    /* Sets the thickness as a percentage of the font size */
-    text-decoration-thickness: 8;
+    text-decoration: underline;
     color: aquamarine;
     font-size: 16px;
 
